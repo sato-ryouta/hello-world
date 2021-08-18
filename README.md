@@ -1,2 +1,3 @@
 # hello-world
-hello-worldのリポジトリ作成演習
+hello-worldのリポジトリ化演習
+#  helloworld
